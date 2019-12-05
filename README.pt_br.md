@@ -2,21 +2,41 @@
 [![NASA][1]][2]
 
 :crossed_flags:
+[Bahasa Indonesia][ID],
+[Català][CA],
+[Deutsch][DE],
 [English][EN],
 [Español][ES],
 [Français][FR],
-Português,
+[Italiano][IT],
+[Polski][PL],
+**Português**,
+[Русский][RU],
+[Türkçe][TR],
+[Română][RO],
+[العربية][AR],
+[हिंदी][HI_IN],
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
 [한국어][KO_KR]
 
+[AR]:README.ar.md
+[ID]:README.id.md
+[CA]:README.ca.md
+[DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
+[IT]:README.it.md
+[PL]:README.pl.md
 [FR]:README.fr.md
 [PT_BR]:README.pt_br.md
+[TR]:README.tr.md
 [ZH_TW]:README.zh_tw.md
 [ZH_CN]:README.zh_cn.md
 [KO_KR]:README.ko_kr.md
+[HI_IN]:README.hi_in.md
+[RU]:README.ru.md
+[RO]:README.ro.md
 
 Código fonte do Computador de Orientação da Apollo 11 (AGC) para o Módulo
 de Comando (Comanche055) e Módulo Lunar (Luminary099). Digitalizado
@@ -46,12 +66,12 @@ Contato           | Ron Burkey <info@sandroid.org>
 Website           | www.ibiblio.org/apollo
 Digitalização     | Este código fonte foi transcrito ou adaptado de outra forma a partir de imagens de uma cópia impressa do Museu do MIT. A digitalização foi realizada por Paul Fjeld, e organizado por Deborah Douglas do Museu. Muitos agradecimentos a ambos.
 
-### Contract and Approvals
+### Contrato e Aprovação
 *Derivado de [CONTRACT_AND_APPROVALS.agc]*
 
 Este programa AGC também deve ser referido como Colossus 2A.
 
-Este programa é destinado ao uso no CM, conforme especificado no relatório `R-577`. Este programa foi preparado sob o projeto DSR `55-23870`, patrocinado pelo Centro de Naves Espaciais Tripuladas da Administração Nacional da Aeronáutica e do Espaço através do contrato `NAS 9-4065` com o Laboratório de Instrumentação, Instituto de Tecnologia de Massachusetts, Cambridge, Mass.
+Este programa é destinado ao uso no CM, conforme especificado no relatório `R-577`. Este programa foi preparado sob o projeto DSR `55-23870`, patrocinado pelo Centro de Naves Espaciais Tripuladas da Administração Nacional da Aeronáutica e do Espaço - NASA - através do contrato `NAS 9-4065` com o Laboratório de Instrumentação, Instituto de Tecnologia de Massachusetts - MIT, Cambridge, Mass.
 
 Enviado por           | Função | Data
 :-------------------- | :--- | :---
@@ -66,7 +86,7 @@ Richard H. Battin  | Diretor, Desenvolvimento da Missão<br>Programa de Orienta�
 David G. Hoag      | Diretor<br>Programa de Orientação e Navegação da Apollo | 28 Mar 69
 Ralph R. Ragan     | Vice Diretor<br>Laboratório de Instrumentação | 28 Mar 69
 
-[CONTRACT_AND_APPROVALS.agc]:https://github.com/chrislgarry/Apollo-11/blob/chrislgarry-sourcecode-index/Comanche055/CONTRACT_AND_APPROVALS.agc
+[CONTRACT_AND_APPROVALS.agc]:https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/CONTRACT_AND_APPROVALS.agc
 [1]:https://cdn.rawgit.com/aleen42/badges/c9246f74/src/nasa.svg
 [2]:https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html
 [3]:http://www.ibiblio.org/apollo/
